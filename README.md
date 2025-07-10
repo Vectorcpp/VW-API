@@ -10,7 +10,7 @@ The VWApi is a Flask-based web application that provides a secure backend for ma
 *   **User Authentication & Session Management:** A nonce-based authentication system to securely log in users and manage their sessions.
 *   **Security:** Implements rate limiting, device banning, and logging to protect against abuse.
 *   **Admin & Dashboard:** Provides endpoints for administrators to monitor and manage devices and a dashboard to view system status.
-*   **Certain Game Handling:** Currently, I'm still working on this, I just currently have the base API's down, no game spertation ALSO The "Dashboard", is just placeholder stuff, thats why its admin only also you can brute force the password if you want
+*   **Certain Game Handling:** Currently, I'm still working on this, I just currently have the base API's down, no game separation ALSO The "Dashboard", is just placeholder stuff, thats why its admin only also you can brute force the password if you want
 
 ### **2. Base URLs**
 
